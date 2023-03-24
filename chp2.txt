@@ -1,1 +1,1 @@
-this is chapter 2 and we are learning git. 
+this is chapter 2 and we are learning git. We are in the myfirstBranch and we are doing the changed here to learn about the branching and merging from the git
